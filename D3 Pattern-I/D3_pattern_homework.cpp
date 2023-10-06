@@ -64,13 +64,13 @@ using namespace std;
 // F G H I J K
 // F G H I J K
 
-// int main(){
-//     int row;
-//     char col;
-//     for(row=1;row<=5;row++){
-//         for(col='F';col<='K';col++){
-//             cout << col <<" ";
-//         }
-//         cout <<endl;
-//     }
-// }
+int main(){
+    int row;
+    char col;
+    for(row=1;row<=5;row++){
+        for(col='F';col<='K';col++){
+            cout << col <<" ";
+        }
+        cout <<endl;
+    }
+}
